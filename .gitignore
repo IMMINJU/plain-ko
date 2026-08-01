@@ -1,0 +1,8 @@
+# mine.mjs 의 출력. 개인 글 저장소에서 뽑히므로 커밋하지 않는다.
+skills/plain-ko/references/queue.md
+
+node_modules/
+.DS_Store
+
+# 코퍼스 조사 기록. 로컬에만 둔다.
+skills/plain-ko/references/corpus-notes.md
